@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindo ao meu perfil :😁
 
-<!--
-**l3le11/l3le11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Helena
 
-Here are some ideas to get you started:
+-tenho aulas no [alura](https://www.alura.com.br)
+, psj5, classroom e agora 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+no github para aprender um
+
+pouco mais sobre programação
+
+### para entrar em contato comigo é só acessar o email:
+
+castro.helena@esocola.pr.gov.br
+
+![](https://media.tenor.com/MXK5aazbwlsAAAAC/stitch-lilo-and-stitch.gif)
